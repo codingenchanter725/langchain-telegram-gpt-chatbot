@@ -46,11 +46,11 @@ allowing users to find relevant information in a collection of documents.
 
 ### Installation
 
-1. Go to [Langchain Chat](https://github.com/shamspias/langchain-chat) and create a model based on your document.
+1. Go to [Langchain Chat](https://github.com/codingwizard0831/langchain-telegram-gpt-chatbot) and create a model based on your document.
 2. Clone the repository
 
 ```bash
-git clone https://github.com/shamspias/langchain-chat.git
+git clone https://github.com/codingwizard0831/langchain-telegram-gpt-chatbot.git
 cd langchain-chat
 ```
 
@@ -73,7 +73,7 @@ python chatbot.py
 7. Start chatting with your bot!
 
 ## License
-This project is licensed under the MIT [License](https://github.com/shamspias/langchain-telegram-gpt-chatbot/blob/main/LICENSE.txt). See the LICENSE file for details.
+This project is licensed under the MIT [License](https://github.com/codingwizard0831/langchain-telegram-gpt-chatbot/blob/main/LICENSE.txt). See the LICENSE file for details.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the chatbot's functionality, performance, or documentation.
